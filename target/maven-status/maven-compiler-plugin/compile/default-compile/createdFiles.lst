@@ -1,2 +1,3 @@
 com\groupchat\controller\HomeController.class
+com\groupchat\entity\User.class
 com\groupchat\server\ws_server.class
